@@ -1,0 +1,19 @@
+<?xml version="1.0" ?>
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 22 40">
+  <style>
+    .cls-1{fill:url(#linear-gradient);}
+    .cls-2{fill:#fff;}
+</style>
+  <defs>
+    <linearGradient id="linear-gradient" x1="11" y1="1" x2="11" y2="39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" style="stop-color:#ffffff;stop-opacity:0.15"/>
+      <stop offset="1" style="stop-color:#000000;stop-opacity:0.15"/>
+    </linearGradient>
+  </defs>
+  <rect class="cls-1" x="1" y="1" width="20.9" height="38"/>
+  <rect class="cls-2" x="3" y="4" width="16.9" height="12" rx="1" ry="1"/>
+  <circle class="cls-2" cx="8" cy="10" r="2"/>
+  <circle class="cls-2" cx="14" cy="10" r="2"/>
+  <path class="cls-2" d="M8 8.5v3m-1.5-1.5h3" transform="rotate(-45 8 10)"/>
+  <path class="cls-2" d="M14 8.5v3m-1.5-1.5h3" transform="rotate(-45 14 10)"/>
+</svg>
